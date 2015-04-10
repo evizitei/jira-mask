@@ -1,0 +1,1 @@
+{"instructure.atlassian.net":{"_enabled":true,"_rules":{"span#priority-val":{"display":"none"},"span.ghx-priority":{"display":"none"},"div.ghx-swimlane.ghx-first div.ghx-heading[title]:hover:after":{"content":"or whenever really"},"div.ghx-swimlane.ghx-first div.ghx-heading[title]:after":{"content":"\"<= This is probably false\"","color":"red"}}}}
